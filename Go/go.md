@@ -2,7 +2,7 @@
 
 ### 类型
 
-- [深度剖析 Go 的 nil](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247489619&idx=1&sn=12ca425680395d21489e7a68d68c84bd&chksm=cf3e0896f84981802dc38cc0c79f83b223f094247238a0b64656239533af45fc179eba01ac97&scene=21#wechat_redirect)
+- [深度剖析Go的 nil](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247489619&idx=1&sn=12ca425680395d21489e7a68d68c84bd&chksm=cf3e0896f84981802dc38cc0c79f83b223f094247238a0b64656239533af45fc179eba01ac97&scene=21#wechat_redirect)
 
 ### select
 
@@ -15,4 +15,8 @@
 
 ### 其他
 
-- [Go 语言如何操作文件](https://mp.weixin.qq.com/s/bb_8rb8r1VV8Df8v8zYhcg)
+- [Go语言如何操作文件](https://mp.weixin.qq.com/s/bb_8rb8r1VV8Df8v8zYhcg)
+
+### 堆
+
+- [Go语言heap解析](https://www.cnblogs.com/zhangmingcheng/p/15502073.html)
