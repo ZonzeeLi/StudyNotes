@@ -21,6 +21,10 @@
 
 - [Go HTTP服务用了优雅关闭，为什么还是报错？](https://mp.weixin.qq.com/s/X4LSkIOjsoyXPB2z8AxtFA)
 
+### Go 工具
+
+- [玩转 Go 日志框架 zap](https://mp.weixin.qq.com/s/jncsoU7uK7PqKB8Th3y5fg)
+
 ### 设计模式
 
 - [Go开源库、大项目的公共包，是这么用建造者模式的](https://mp.weixin.qq.com/s/ZQUiKmSQ-WSDRAfO-6cNag)
