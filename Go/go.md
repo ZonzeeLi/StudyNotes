@@ -24,6 +24,7 @@
 ### Go 工具
 
 - [玩转 Go 日志框架 zap](https://mp.weixin.qq.com/s/jncsoU7uK7PqKB8Th3y5fg)
+- [Go 十年了，终于想起要统一 log 库了！](https://mp.weixin.qq.com/s/ZOdasSP0paVCLF94Vf9A9A)
 
 ### 设计模式
 
