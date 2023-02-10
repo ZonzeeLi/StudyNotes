@@ -28,6 +28,8 @@
 ### Go web
 
 - [Go HTTP服务用了优雅关闭，为什么还是报错？](https://mp.weixin.qq.com/s/X4LSkIOjsoyXPB2z8AxtFA)
+- [gRPC+gRPC Gateway 能不能不用证书？](https://www.jianshu.com/p/543396adb72f)
+- [Go语言实现建立websocket连接并定时发送心跳](https://www.cnblogs.com/tianyun5115/p/12613274.html?ivk_sa=1024320u)
 
 ### Go 框架
 
@@ -40,6 +42,7 @@
 - [这个Go可视化工具，能帮你把项目代码结构和依赖画出来](https://mp.weixin.qq.com/s/rCpiQxqx1jF0a0AIUX1wNQ)
 - [高性能 Go 日志库 zap 设计与实现](https://www.luozhiyun.com/archives/542)
 - [发现一个Go开发的隔空传送工具，支持跨系统传送](https://mp.weixin.qq.com/s/iESNOzkPaZqPp6fnSMKRzg)
+- [Go 每日一库之定时任务库：cron](https://mp.weixin.qq.com/s/swdijAro2k8LuYu7q_La1A)
 
 ### 设计模式
 
