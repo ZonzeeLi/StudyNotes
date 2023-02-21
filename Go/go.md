@@ -32,6 +32,7 @@
 - [Golang 最细节篇之 — Reader 和 ReaderAt 的区别](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247486762&idx=1&sn=cfe9ec4eff708397e8982e2dcb1c669b&chksm=cf3e1deff84994f9d82abc00ea26b1192a301863ae2bff74ce51d0c6ddcca7ce456973891053&scene=21#wechat_redirect)
 - [Go 并发编程 — 深入浅出 sync.Pool ，围观最全的使用姿势，理解最深刻的原理](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247487011&idx=1&sn=a39e1cb829c5e5f504e096794e6c91da&chksm=cf3e1ee6f84997f0a8cae728d88e3f531ac1cd122a3a303c98fea4838f8e699f8fd9ab9f7446&scene=142#wechat_redirect)
 - [Go 并发编程 — sync.Pool 源码级原理剖析 终结篇](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247487157&idx=1&sn=231af45701885f70e40fbf013f032192&chksm=cf3e1e70f8499766622ccf8c204e6a5ee667c70372a530e9d3d77ed4cd54be8b257d9efb65e2&scene=21#wechat_redirect)
+- [Go十大常见错误第10篇：Goroutine和循环变量一起使用的坑](https://mp.weixin.qq.com/s/5296PqK3e7A6rWVWr2p4HQ)
 
 ### Go web
 
