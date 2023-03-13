@@ -44,6 +44,7 @@
 
 - [Kratos 中文文档](https://go-kratos.dev/docs/intro/design/)
 - [Go Gin框架请求自动验证和数据绑定，看完这篇就会用了](https://mp.weixin.qq.com/s/cAwc6ZhdUwxkI5VT8LY9Hg)
+- [颠覆微服务架构？谷歌最新开源service weaver初体验](https://mp.weixin.qq.com/s/uIk0Zw6mfV6ZLd3ODDjJHQ)
 
 ### Go 工具
 
