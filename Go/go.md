@@ -40,6 +40,8 @@
 - [gRPC+gRPC Gateway 能不能不用证书？](https://www.jianshu.com/p/543396adb72f)
 - [Go语言实现建立websocket连接并定时发送心跳](https://www.cnblogs.com/tianyun5115/p/12613274.html?ivk_sa=1024320u)
 - [Golang 中的反向代理(ReverseProxy) 介绍与使用](https://www.cnblogs.com/FengZeng666/p/15643335.html)
+- [Go 简单而强大的反向代理（Reverse Proxy）](https://h1z3y3.me/posts/simple-and-powerful-reverse-proxy-in-golang/)
+- [golang 反向代理 Gin框架反向代理详解](https://www.cnblogs.com/shuiche/p/16922587.html)
 
 ### Go 框架
 
