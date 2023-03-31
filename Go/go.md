@@ -59,6 +59,7 @@
 - [Go 每日一库之定时任务库：cron](https://mp.weixin.qq.com/s/swdijAro2k8LuYu7q_La1A)
 - [Golang：命令行框架cobra简介](https://www.cnblogs.com/realcp1018/p/15763061.html)
 - [怎么开源自己的Go库](https://mp.weixin.qq.com/s/vRWo1ZrsXlBXOrabjYtBSw)
+- [Go每日一库之Pie ：一个高性能、类型安全的slice操作库](https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651454203&idx=1&sn=6897f7ef36756827c500d8cd41ded580&scene=21#wechat_redirect)
 
 ### 设计模式
 
