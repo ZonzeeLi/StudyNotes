@@ -42,6 +42,7 @@
 - [Golang 中的反向代理(ReverseProxy) 介绍与使用](https://www.cnblogs.com/FengZeng666/p/15643335.html)
 - [Go 简单而强大的反向代理（Reverse Proxy）](https://h1z3y3.me/posts/simple-and-powerful-reverse-proxy-in-golang/)
 - [golang 反向代理 Gin框架反向代理详解](https://www.cnblogs.com/shuiche/p/16922587.html)
+- [Go语言HTTP请求流式写入body](https://studygolang.com/articles/29059)
 
 ### Go 框架
 
@@ -60,6 +61,8 @@
 - [Golang：命令行框架cobra简介](https://www.cnblogs.com/realcp1018/p/15763061.html)
 - [怎么开源自己的Go库](https://mp.weixin.qq.com/s/vRWo1ZrsXlBXOrabjYtBSw)
 - [Go每日一库之Pie ：一个高性能、类型安全的slice操作库](https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651454203&idx=1&sn=6897f7ef36756827c500d8cd41ded580&scene=21#wechat_redirect)
+- [Golang最强大的访问控制框架casbin全解析](https://blog.csdn.net/qq_42015552/article/details/104013264?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-104013264-blog-128071277.235%5Ev28%5Epc_relevant_t0_download&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-104013264-blog-128071277.235%5Ev28%5Epc_relevant_t0_download)
+- [golang中使用casbin做权限验证](https://blog.csdn.net/xujiamin0022016/article/details/128071277)
 
 ### 设计模式
 
