@@ -25,6 +25,7 @@
 
 - [面试官：简单聊聊 Go 逃逸分析？](https://mp.weixin.qq.com/s/JXLGLya8ryCMS3g6loTZHw)
 - [一篇文章讲清楚golang内存泄漏](https://mp.weixin.qq.com/s?__biz=Mzg3NTg4NTE3Nw==&mid=2247483756&idx=1&sn=74f35279893de4972d386280c15c33e8&chksm=cf3be67af84c6f6c0096596fa27d437da0fb29d393845ea306d94e521746dd137ce2571f37ac&mpshare=1&scene=23&srcid=0210kQYZXU7DsVQI3DEpZjB4&sharer_sharetime=1675991217630&sharer_shareid=8e63b3540fd968d19d6f9b0d3401e83f#rd)
+- [给大家丢脸了，用了三年golang，我还是没答对这道resp.Body.Close() 引发的内存泄漏题](https://studygolang.com/articles/31717?fr=sidebar)
 
 ### Go 编程
 
@@ -33,6 +34,7 @@
 - [Go 并发编程 — 深入浅出 sync.Pool ，围观最全的使用姿势，理解最深刻的原理](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247487011&idx=1&sn=a39e1cb829c5e5f504e096794e6c91da&chksm=cf3e1ee6f84997f0a8cae728d88e3f531ac1cd122a3a303c98fea4838f8e699f8fd9ab9f7446&scene=142#wechat_redirect)
 - [Go 并发编程 — sync.Pool 源码级原理剖析 终结篇](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247487157&idx=1&sn=231af45701885f70e40fbf013f032192&chksm=cf3e1e70f8499766622ccf8c204e6a5ee667c70372a530e9d3d77ed4cd54be8b257d9efb65e2&scene=21#wechat_redirect)
 - [Go十大常见错误第10篇：Goroutine和循环变量一起使用的坑](https://mp.weixin.qq.com/s/5296PqK3e7A6rWVWr2p4HQ)
+- [Go Http包解析：为什么需要response.Body.Close()](https://segmentfault.com/a/1190000020086816)
 
 ### Go web
 
