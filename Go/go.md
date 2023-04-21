@@ -26,6 +26,7 @@
 - [面试官：简单聊聊 Go 逃逸分析？](https://mp.weixin.qq.com/s/JXLGLya8ryCMS3g6loTZHw)
 - [一篇文章讲清楚golang内存泄漏](https://mp.weixin.qq.com/s?__biz=Mzg3NTg4NTE3Nw==&mid=2247483756&idx=1&sn=74f35279893de4972d386280c15c33e8&chksm=cf3be67af84c6f6c0096596fa27d437da0fb29d393845ea306d94e521746dd137ce2571f37ac&mpshare=1&scene=23&srcid=0210kQYZXU7DsVQI3DEpZjB4&sharer_sharetime=1675991217630&sharer_shareid=8e63b3540fd968d19d6f9b0d3401e83f#rd)
 - [给大家丢脸了，用了三年golang，我还是没答对这道resp.Body.Close() 引发的内存泄漏题](https://studygolang.com/articles/31717?fr=sidebar)
+- [Golang http请求忘记调用resp.Body.Close()而导致的协程泄漏问题](https://blog.csdn.net/qq_37102984/article/details/129326866)
 
 ### Go 编程
 
