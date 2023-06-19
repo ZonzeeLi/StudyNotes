@@ -80,6 +80,7 @@
 - [Golang中常见的option设计探讨](https://mp.weixin.qq.com/s/mzI8-KoRBhH-fGdfcyqI-w)
 - [工厂模式有三个Level，你能用Go写到第几层？](https://mp.weixin.qq.com/s/MlC6-TDf06LGpF8hxcSV_w)
 - [两种 Option 编程模式的实现，Uber推荐这一种](https://mp.weixin.qq.com/s/LW8Woq5Rg4x31DbtD-_jeA)
+- [一些实用的编程模式 | Builder模式能用来解决什么问题？](https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247489891&idx=1&sn=7ced355841d0bdbb796887ab8934cd46&chksm=fa80c8f4cdf741e237a996940b7594c21eeb4348de90f2ed48324874e91b4c02b53d91b50b20&cur_album_id=2088055426520006658&scene=189#wechat_redirect)
 
 ### 面试相关
 
