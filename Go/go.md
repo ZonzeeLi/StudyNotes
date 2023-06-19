@@ -3,6 +3,7 @@
 ### 类型
 
 - [深度剖析Go的 nil](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247489619&idx=1&sn=12ca425680395d21489e7a68d68c84bd&chksm=cf3e0896f84981802dc38cc0c79f83b223f094247238a0b64656239533af45fc179eba01ac97&scene=21#wechat_redirect)
+- [Go协程池(1): 线程vs协程](https://mp.weixin.qq.com/s/rgecHCCgBEpSC3lOQMn9Lg)
 
 ### Go 关键字
 
@@ -36,6 +37,8 @@
 - [Go 并发编程 — sync.Pool 源码级原理剖析 终结篇](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247487157&idx=1&sn=231af45701885f70e40fbf013f032192&chksm=cf3e1e70f8499766622ccf8c204e6a5ee667c70372a530e9d3d77ed4cd54be8b257d9efb65e2&scene=21#wechat_redirect)
 - [Go十大常见错误第10篇：Goroutine和循环变量一起使用的坑](https://mp.weixin.qq.com/s/5296PqK3e7A6rWVWr2p4HQ)
 - [Go Http包解析：为什么需要response.Body.Close()](https://segmentfault.com/a/1190000020086816)
+- [万字长文深入浅出 Golang Runtime](https://zhuanlan.zhihu.com/p/95056679)
+
 
 ### Go web
 
@@ -66,6 +69,9 @@
 - [Go每日一库之Pie ：一个高性能、类型安全的slice操作库](https://mp.weixin.qq.com/s?__biz=MzAxMTA4Njc0OQ==&mid=2651454203&idx=1&sn=6897f7ef36756827c500d8cd41ded580&scene=21#wechat_redirect)
 - [Golang最强大的访问控制框架casbin全解析](https://blog.csdn.net/qq_42015552/article/details/104013264?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-104013264-blog-128071277.235%5Ev28%5Epc_relevant_t0_download&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-104013264-blog-128071277.235%5Ev28%5Epc_relevant_t0_download)
 - [golang中使用casbin做权限验证](https://blog.csdn.net/xujiamin0022016/article/details/128071277)
+- [搞定Go单元测试（四）—— 依赖注入框架(wire)](https://juejin.cn/post/6844903853536575501)
+- [Golang依赖注入框架wire全攻略](https://juejin.cn/post/6844903901469097998)
+- 
 
 ### 设计模式
 
