@@ -1,6 +1,6 @@
 ## Go
 
-### 类型
+### Go 类型
 
 - [深度剖析Go的 nil](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247489619&idx=1&sn=12ca425680395d21489e7a68d68c84bd&chksm=cf3e0896f84981802dc38cc0c79f83b223f094247238a0b64656239533af45fc179eba01ac97&scene=21#wechat_redirect)
 - [Go协程池(1): 线程vs协程](https://mp.weixin.qq.com/s/rgecHCCgBEpSC3lOQMn9Lg)
@@ -30,6 +30,7 @@
 - [给大家丢脸了，用了三年golang，我还是没答对这道resp.Body.Close() 引发的内存泄漏题](https://studygolang.com/articles/31717?fr=sidebar)
 - [Golang http请求忘记调用resp.Body.Close()而导致的协程泄漏问题](https://blog.csdn.net/qq_37102984/article/details/129326866)
 - [一文彻底理解Go语言栈内存/堆内存](https://juejin.cn/post/7135670650353483783#heading-5)
+- [Go GC调优](https://www.bilibili.com/video/BV1nT411379m/?spm_id_from=333.788&vd_source=20b65b37d58ba62c59075224d1f2f64a)
 
 ### Go 编程
 
