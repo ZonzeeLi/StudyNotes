@@ -5,6 +5,7 @@
 - [深度剖析Go的 nil](https://mp.weixin.qq.com/s?__biz=Mzg3NTU3OTgxOA==&mid=2247489619&idx=1&sn=12ca425680395d21489e7a68d68c84bd&chksm=cf3e0896f84981802dc38cc0c79f83b223f094247238a0b64656239533af45fc179eba01ac97&scene=21#wechat_redirect)
 - [Go协程池(1): 线程vs协程](https://mp.weixin.qq.com/s/rgecHCCgBEpSC3lOQMn9Lg)
 - [Go Map底层实现原理](https://zhuanlan.zhihu.com/p/495998623)
+- [golang 中 channel 的详细使用、使用注意事项及死锁分析](https://www.cnblogs.com/jiujuan/p/16014608.html)
 
 ### Go 关键字
 
