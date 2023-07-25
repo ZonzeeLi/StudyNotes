@@ -43,6 +43,7 @@
 - [Go Http包解析：为什么需要response.Body.Close()](https://segmentfault.com/a/1190000020086816)
 - [万字长文深入浅出 Golang Runtime](https://zhuanlan.zhihu.com/p/95056679)
 - [深度解密Go语言之context](https://zhuanlan.zhihu.com/p/68792989)
+- [sync.Pool：提高Go语言程序性能的关键一步](https://mp.weixin.qq.com/s/QwwIb7vepilrLSkcVMKL6w)
 
 
 ### Go web
