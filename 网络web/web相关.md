@@ -16,3 +16,4 @@
 - [JWT的使用场景和优缺点，你都清楚吗？](https://zhuanlan.zhihu.com/p/393420793)
 - [JWT 优缺点和适合场景](https://zhuanlan.zhihu.com/p/263410154)
 - [JWT的Token自动续期和主动终止](https://blog.csdn.net/desky/article/details/114640840)
+- [token为什么能防止csrf_你了解可怕的CSRF攻击吗？](https://blog.csdn.net/weixin_39858132/article/details/111112176)
