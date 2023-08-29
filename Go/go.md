@@ -18,6 +18,7 @@
 
 - [面试官：哥们Go语言互斥锁了解到什么程度了？](https://mp.weixin.qq.com/s?__biz=MzkyNzI1NzM5NQ==&mid=2247486917&idx=1&sn=a46ec21c40bb4f225068e05ea5d16d94&scene=21#wechat_redirect)
 - [面试官：哥们Go语言的读写锁了解多少？](https://mp.weixin.qq.com/s/8AvAXThTMax4Te8mpXihHQ)
+- [go 读写锁实现原理解读](https://mp.weixin.qq.com/s/t8zk8q716n4h7m9gfKKLvQ)
 
 ### Go 数据结构
 
@@ -56,6 +57,7 @@
 - [golang 反向代理 Gin框架反向代理详解](https://www.cnblogs.com/shuiche/p/16922587.html)
 - [Go语言HTTP请求流式写入body](https://studygolang.com/articles/29059)
 - [写给go开发者的gRPC教程-超时控制](https://mp.weixin.qq.com/s/bh2iRcPllEwPwY4MjA5iHQ)
+- 
 
 ### Go 框架
 
@@ -78,7 +80,7 @@
 - [golang中使用casbin做权限验证](https://blog.csdn.net/xujiamin0022016/article/details/128071277)
 - [搞定Go单元测试（四）—— 依赖注入框架(wire)](https://juejin.cn/post/6844903853536575501)
 - [Golang依赖注入框架wire全攻略](https://juejin.cn/post/6844903901469097998)
-- 
+- [Go语言HTTP压测工具 | 青训营笔记](https://juejin.cn/post/7204827097041469497)
 
 ### 设计模式
 
