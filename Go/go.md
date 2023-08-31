@@ -64,6 +64,10 @@
 - [Kratos 中文文档](https://go-kratos.dev/docs/intro/design/)
 - [Go Gin框架请求自动验证和数据绑定，看完这篇就会用了](https://mp.weixin.qq.com/s/cAwc6ZhdUwxkI5VT8LY9Hg)
 - [颠覆微服务架构？谷歌最新开源service weaver初体验](https://mp.weixin.qq.com/s/uIk0Zw6mfV6ZLd3ODDjJHQ)
+- [Gin 源码学习（一）丨请求中 URL 的参数是如何解析的？](https://juejin.cn/post/6844904070784745486)
+- [Gin 源码学习（二）丨请求体中的参数是如何解析的？](https://juejin.cn/post/6844904073024520206)
+- [Gin 源码学习（三）丨路由是如何构建和匹配的？](https://juejin.cn/post/6844904079232090119)
+- [Gin 源码学习（四）丨Gin 对请求的处理流程](https://juejin.cn/post/6844904087318691847)
 
 ### Go 工具
 
