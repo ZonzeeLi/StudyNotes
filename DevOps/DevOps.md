@@ -3,6 +3,7 @@
 ### k8s
 
 - [devops 知识仓](https://github.com/bregman-arie/devops-exercises)
+- [Kubernetes 中文指南](https://jimmysong.io/kubernetes-handbook/)
 
 ### CI & CD
 
