@@ -58,7 +58,7 @@
 - [golang 反向代理 Gin框架反向代理详解](https://www.cnblogs.com/shuiche/p/16922587.html)
 - [Go语言HTTP请求流式写入body](https://studygolang.com/articles/29059)
 - [写给go开发者的gRPC教程-超时控制](https://mp.weixin.qq.com/s/bh2iRcPllEwPwY4MjA5iHQ)
-- 
+- [一文读懂 Go Http Server 原理](https://mp.weixin.qq.com/s/cNY788_cMFjPO7ZNjpj-6w)
 
 ### Go 框架
 
