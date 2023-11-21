@@ -60,6 +60,7 @@
 - [Go语言HTTP请求流式写入body](https://studygolang.com/articles/29059)
 - [写给go开发者的gRPC教程-超时控制](https://mp.weixin.qq.com/s/bh2iRcPllEwPwY4MjA5iHQ)
 - [一文读懂 Go Http Server 原理](https://mp.weixin.qq.com/s/cNY788_cMFjPO7ZNjpj-6w)
+- [GO解决跨域问题（可配置指定域名）](https://juejin.cn/post/6875599753965010958)
 
 ### Go 框架
 
