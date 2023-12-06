@@ -7,6 +7,7 @@
 - [Go Map底层实现原理](https://zhuanlan.zhihu.com/p/495998623)
 - [golang 中 channel 的详细使用、使用注意事项及死锁分析](https://www.cnblogs.com/jiujuan/p/16014608.html)
 - [详解 Go 反射并实战一例](https://mp.weixin.qq.com/s/Kr-lL9gvwIn73lsgGmtliA)
+- [如何优雅地关闭channel](https://golang.design/go-questions/channel/graceful-close/)
 
 ### Go 关键字
 
