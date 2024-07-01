@@ -8,6 +8,11 @@
 - [字节三面：MySQL 分页怎么优化啊？](https://mp.weixin.qq.com/s/i6FL1iRECiWZ1CCf_juxQQ)
 - [遇到个MySQL索引长度限制的问题](https://mp.weixin.qq.com/s/wA_6F3nqsB-3I8iDglwxrQ)
 
+
+### B+树
+
+- [mysql B+树中为什么同层的非叶子节点所在的页也使用双向链表连接?](https://www.zhihu.com/question/478187330/answer/2050494617)
+
 ### 连接池
 
 - [数据库连接池该设置多大?记一次由连接池引发的事故](https://www.lixueduan.com/posts/redis/db-connection-pool-settings/)
