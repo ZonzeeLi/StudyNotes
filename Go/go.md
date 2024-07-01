@@ -37,6 +37,7 @@
 - [一文彻底理解Go语言栈内存/堆内存](https://juejin.cn/post/7135670650353483783#heading-5)
 - [Go GC调优](https://www.bilibili.com/video/BV1nT411379m/?spm_id_from=333.788&vd_source=20b65b37d58ba62c59075224d1f2f64a)
 - [Goroutine泄露的危害、成因、检测与防治](https://juejin.cn/post/7128665615383920677)
+- [记一次接口慢查排查](https://www.cnblogs.com/nullllun/p/15114841.html)
 
 ### Go 编程
 
